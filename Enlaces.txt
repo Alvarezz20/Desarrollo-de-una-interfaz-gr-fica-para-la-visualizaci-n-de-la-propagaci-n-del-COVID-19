@@ -1,0 +1,13 @@
+https://aws.amazon.com/es/ec2/
+
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+https://winscp.net/eng/download.php
+
+https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
+
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/
+
+https://varhowto.com/install-pandas-ubuntu-20-04/
+
+https://grafana.com/grafana/plugins/grafana-worldmap-panel/?tab=installation
